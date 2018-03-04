@@ -1,0 +1,58 @@
+= Kort gebakken gelakte staartvismedaillons met een lichtzoete kerriesaus, aziatische groenten en geroosterde bataat
+Filip Lenaerts <filip.lenaerts@gmail.com>
+v1.0, 2018-03-04
+:imagesdir: assets/images
+
+== Ingredienten
+
+zie cursus cvo
+
+== Bereidingswijze
+
+.Mise en place (MEP)
+|===
+|Gerecht|taak|wie
+
+|Laksaus|4el siroop + gember + 4-5 citroenstengels + look + 100ml sojasaus|filip
+|Laksaus|saus inkoken tot lichte siroop|filip
+|Laksaus|saus zeven|filip
+|Laksaus|saus + 1 citroenstengel vacuum bewaren|filip
+|staartvis|kuisen, fileren en portioneren (2 a 3 pp) |filip
+|staartvis|filets kort aanbakken|filip
+|staartvis|portioneren (2 a 3 pp) + PeZo + lak|filip
+|staartvis|op ovenplaat|filip
+|kerriesaus|ui, selder en appel snipperen|filip
+|kerriesaus|tomber au beurre + singer|filip
+|kerriesaus|+ mouiller gevogeltefond + fremir|filip
+|kerriesaus|pezo + chinois|filip
+|aziatische groenten|shiitake kuisen en snijden in brede repen|filip
+|aziatische groenten|sojascheuten kuisen|filip
+|aziatische groenten|lenteui snijden|filip
+|bataat|wassen+drogen|filip
+|bataat|poffen op 160C|filip
+|bataat|in plakken van 1,5 cm snijden|filip
+|bataat|uisteken: een grote, een kleine cilinder|filip
+|bataat|quadriller|filip
+|papadum|kort frituren 195C + uitlekken|filip
+|papadum|kruiden met 5 spices|filip
+|===
+
+.Bereiding
+|===
+|Gerecht|Handeling|Wie
+|staartvis|2 min 160C|Filip
+|staartvis|opnieuw lakken|Filip
+|staartvis|1 min 160C|Filip
+|staartvis|opnieuw lakken|Filip
+|staartvis|kort salamander|Filip
+|bataat|opwarmen onder salamander|Filip
+|bataat|assaisonner met fleur de sel en olijfolie|Filip
+|aziatische groenten|shiitake + sojascheuten in olie wokken|Filip
+|aziatische groenten|blussen met firin|Filip
+|aziatische groenten|lenteui toevoegen|Filip
+|===
+
+.Bordschikking
+|===
+|image::staartvis-bord.png[]
+|===
