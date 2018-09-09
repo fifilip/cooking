@@ -10,7 +10,7 @@ zie cursus cvo
 == Bereidingswijze
 
 .Mise en place (MEP)
-[cols="1,20.1"]
+[cols="1,20,1"]
 |===
 |Gerecht|taak|wie
 
@@ -39,7 +39,7 @@ zie cursus cvo
 |===
 
 .Bereiding
-[cols="1,20.1"]
+[cols="1,20,1"]
 |===
 |Gerecht|Handeling|Wie
 |staartvis|2 min 160C|Filip

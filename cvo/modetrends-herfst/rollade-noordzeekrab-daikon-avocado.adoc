@@ -1,0 +1,60 @@
+= Rollade van noordzeekrabscharen met daikon en avocado
+Filip Lenaerts <filip.lenaerts@gmail.com>
+v1.0, 2018-09-10
+:imagesdir: assets/images
+
+== Ingredienten
+
+zie cursus cvo
+
+== Bereidingswijze - Mise en place
+
+.Mise en place (MEP)
+[cols="1,20,1"]
+|===
+|Gerecht|taak|wie
+
+|Krab|water opzetten + Cayennepeper + zout|filip
+|Krab|sjalot snipperen|filip
+|Krab|limoen persen|filip
+|Krab|koriander wassen + fijnsnijden|filip
+|Daikon|schil en verdeel in stukken van 6-7 cm|theo
+|Daikon|lange banden van snijden + op ijswater leggen|theo
+|Avocado|ontschillen en in in ongelijke stukken snijden|marleen
+|Avocado|kleuren met gasbrander + pezo + olijfolie|marleen
+|Komkommer|schillen + snijden in ongelijke stukken|marleen
+|Komkommer|pekelen (zout + 30min rusten)|marleen
+|Komkommer|afspoelen + pezo + olijfolie + limoensap|marleen
+|Tomaten|spoelen - in ongelijke stukken + pezo + vinaigrette|theo
+|Saus|Koude saus: 1 deel zure room + 2 delen demi glace|filip
+|Saus|wasabi + limoensap|filip
+|Slaharten|buitenste bladeren verwijderen + in twee snijden|theo
+|Slaharten|ene helft: in partjes + pezo + vinaigrette|theo
+|Slaharten|andere helft: aankleuren en blussen met chardonnayazijn (van vuur weg)|theo
+|Slaharten|andere helft: Pezo|theo
+|Radijs|was, reining, 1cm loof aanlaten|marleen
+|Radijs|ene helft: in plakjes op ijswater|marleen
+|Radijs|andere helft: in kwartjes + pekelen|marleen
+|Notensla mayo|rucola wassen|filip
+|Notensla mayo|basis eiwit mayo + rucola|filip
+|Notensla mayo|spuitzak|filip
+|oostindische kers|blaadjes uitsteken met kleine ronde uitsteekvorm|theo
+|oostindische kers|op ijswater|theo
+|Vinaigrette|sushi azijn + chardonnayazijn + olijfolie|marleen
+|===
+
+.Bereiding
+[cols="1,20,1"]
+|===
+|Gerecht|Handeling|Wie
+
+|Krab|in kookwater en terug tot aan kookpunt brengen|filip
+|Krab|van vuur weg 20-30 min laten garen|filip
+|Krab|vlees uit poten en pantser halen|marleen
+|Krab|vlees fijnsnijden|marleen
+|Krab|vlees + pezo, sap + zeste van limoen + sjalot + koriander + zure room|marleen
+|Krab|canneloni's rollen van daikon met krabvulsel|theo+filip
+|===
+
+=== Bordschikking
+image::emptyplate.jpg[]
