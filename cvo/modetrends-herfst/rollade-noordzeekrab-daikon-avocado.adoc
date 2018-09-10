@@ -7,7 +7,7 @@ v1.0, 2018-09-10
 
 zie cursus cvo
 
-== Bereidingswijze - Mise en place
+== Mise en Place & Bereidingswijze 
 
 .Mise en place (MEP)
 [cols="1,20,1"]
@@ -20,12 +20,12 @@ zie cursus cvo
 |Krab|koriander wassen + fijnsnijden|filip
 |Daikon|schil en verdeel in stukken van 6-7 cm|theo
 |Daikon|lange banden van snijden + op ijswater leggen|theo
-|Avocado|ontschillen en in in ongelijke stukken snijden|marleen
+|Avocado|ontschillen en in mirepoix|marleen
 |Avocado|kleuren met gasbrander + pezo + olijfolie|marleen
-|Komkommer|schillen + snijden in ongelijke stukken|marleen
+|Komkommer|schillen + snijden in mirepoix|marleen
 |Komkommer|pekelen (zout + 30min rusten)|marleen
 |Komkommer|afspoelen + pezo + olijfolie + limoensap|marleen
-|Tomaten|spoelen - in ongelijke stukken + pezo + vinaigrette|theo
+|Tomaten|spoelen - in mirepoix snijden + pezo + vinaigrette|theo
 |Saus|Koude saus: 1 deel zure room + 2 delen demi glace|filip
 |Saus|wasabi + limoensap|filip
 |Slaharten|buitenste bladeren verwijderen + in twee snijden|theo
