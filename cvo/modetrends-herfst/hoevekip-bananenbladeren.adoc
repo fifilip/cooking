@@ -1,0 +1,64 @@
+= gebraden hoevekip in bananenbladeren
+Filip Lenaerts <filip.lenaerts@gmail.com>
+v1.0, 2018-09-11
+:imagesdir: assets/images
+
+== Ingredienten
+
+zie cursus cvo
+
+== Mise en Place & Bereidingswijze
+
+.Mise en place (MEP)
+[cols="1,20,1"]
+|===
+|Gerecht|taak|wie
+
+|gevogelte fond|ondooien?|theo
+|kip|panklaar + vel prikken|marleen
+|kip|met zout en citroensap inwrijven + 30 min marineren|marleen
+|kip|2 uien snipperen|filip
+|kip|4 tenen look + 30g gember + 40g amandelpoeder|filip
+|kip|specerijmengsel maken: 5g cayenne + 10g kurkumu + 20g vadouvan + 10g graam masala + 20g verse kor + 15g citrmelisse + water|theo
+|kip|bananenbladeren wassen|marleen
+|pastinaak|reinigen + in gelijke stukken snijden|filip
+|pastinaak|dikste: in gelijke stukken snijden|filip
+|pastinaak|dunste: overlangs in 2 of 4 snijden, met schil!|marleen
+|pastinaak|sjalot snipperen|marleen
+|pastinaak|hazelnoot boter maken|theo
+|japanse boontjes|peulen |filip + marleen + theo
+|japanse boontjes|blanchir rafraichier|marleen
+|oesterzwammen|reinigen + in gelijke stukken scheuren|theo
+|basmatirijst|spoelen|filip
+|===
+
+.Bereiding
+[cols="1,20,1"]
+|===
+|Gerecht|Handeling|Wie
+
+|hoevekip|gesnipperde ui aankleuren|theo
+|hoevekip|voeg look/gember/amandelpoeder toe|theo
+|hoevekip|voeg specerijmengsel toe + laten meestoven|theo
+|hoevekip|geheel afkoelen|theo
+|hoevekip|hoevekip + specerijmengsel tussen bananenbladeren in vacuumzak vacuum trekken|theo
+|hoevekip|steamen: 1u30 op 95C|theo
+|hoevekip|na steamen: kookvocht bijhouden|marleen
+|hoevekip|na steamen: kip versnijden en warm houden onder warmtelamp|theo
+|saus|reductie van gevogeltefond en kookvocht|marleen
+|saus|passer + zure room + pezo + xanata |marleen
+|pastinaak-grote stukken|1/2 deel van sjalot aanstoven|filip
+|pastinaak-grote stukken|pastinaak toevoegen + pezono + gevogeltefond + room|filip
+|pastinaak-grote stukken|garen onder deksel|filip
+|pastinaak-grote stukken|thermomix|filip
+|pastinaak-grote stukken|thermomix|filip
+|pastinaak-kleine stukkena|garen in hazelnootboter + pezono|theo
+|pastinaak-kleine stukkena|blussen met gevogeltefond|theo
+|japanse boontjes|1/2 deel sjalot aanstoven + pezono|marleen
+|japanse boontjes|boontjes en beetje water|marleen
+|oesterzwammen|kort bakken in koolzaadolie + pezo|filip
+|basmati rijst|gaar koken ingezouten water|theo
+|===
+
+=== Bordschikking
+image::emptyplate.jpg[]
