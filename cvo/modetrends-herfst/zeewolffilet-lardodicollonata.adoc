@@ -1,0 +1,61 @@
+= Geroosterde zeewolffilet met lardo di collonata, jus van jeneverbes, gestoofde schorseneren en bleekselderij
+Filip Lenaerts <filip.lenaerts@gmail.com>
+v1.0, 2018-11-27
+:imagesdir: assets/images
+
+== Ingredienten
+
+zie cursus cvo
+
+== Mise en Place & Bereidingswijze 
+
+.Mise en place (MEP)
+[cols="5,20,3"]
+|===
+|Gerecht|taak|wie
+
+|Oven|160C|filip
+|vuren|aansteken|filip
+|vuurplaat|aansteken|filip
+|borden|7 borden voor zeewolf|filip
+|Zeewolf|reinigen + portioneren|theo
+|Zeewolf|koolzaadolie besprenkelen+quadriller|theo
+|Zeewolf|leg op bakplaat met olie + assaisonner (op plaat + op vis)|theo
+|Lardo|fijn snijden + koelkast|filip
+|schorseneren|schrobben|filip
+|schorseneren|dunne repen met dunschiller|filip
+|schorseneren|blanchir + rafraichir|filip
+|schorseneren|frituren + assaisoner m/ zout|filip
+|schorseneren|rest: schillen + op citroenwater zetten|filip
+|schorseneren|portioner: schuin, 0,5 cm|theo
+|schorseneren|blanchir + rafraichir|theo
+|schorseneren|peterselie plukken, spoelen, egoutter + hacher|theo
+|schorseneren|room reduceren tot 1/2 + pezo|theo
+|bleekselder|reinigen, ontnerven, brunoise|theo
+|jeneverbessaus|bessen verwarmen + kneuzen|theo
+|jeneverbessaus|demi-glace opwarmen, reduire, bessen laten trekken|theo
+|jeneverbessaus|koude boterblokjes klaarzetten|theo
+|erwtencreme|blanchir + rafraichir|filip
+|erwtencreme|thermomix(80C/5-10)erwten + room + boter|filip
+|erwtencreme|passer au chinois|filip
+|erwtencreme|assaisoner|filip
+|shii take|reinigen|theo
+|===
+
+.Bereiding
+[cols="5,20,3"]
+|===
+|Gerecht|Handeling|Wie
+
+|lardo|op zeewolf leggen + afbranden|theo
+|zeewolf|garen in oven op 160C|theo
+|schorseneren|opwarmen in roomsaus|filip
+|schorseneren|afwerken met gehakte peterselie + druppels citroen|filip
+|jeneverbessaus|monter au beurre|filip
+|bleekselderij|assaisoner a la minute: selderiezout, chardonnay azijn, olijfolie|theo
+|shii take|kort aanbakken + assaisoner|theo
+|shii take|egoutter|theo
+|===
+
+=== Bordschikking
+image::emptyplate.jpg[]

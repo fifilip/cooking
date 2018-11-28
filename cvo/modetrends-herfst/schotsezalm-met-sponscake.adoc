@@ -1,0 +1,56 @@
+= Mi-cuit en tartaar van schotse zalm met tomaten sponscake, venkeldrop en mosterdijs
+Filip Lenaerts <filip.lenaerts@gmail.com>
+v1.0, 2018-11-27
+:imagesdir: assets/images
+
+== Ingredienten
+
+zie cursus cvo
+
+== Mise en Place & Bereidingswijze 
+
+.Mise en place (MEP)
+[cols="5,20,3"]
+|===
+|Gerecht|taak|wie
+
+|Oven|160C|filip
+|vuren|aansteken|filip
+|vuurplaat|aansteken|filip
+|borden|7 borden koud|filip
+|zalmhaasje|fileer en portioneer|theo
+|zalmhaasje|pekelmengeling|filip
+|zalmhaasje|vacuumeer zalm + 1u marineren|theo
+|zalmhaasje|droogdeppen + verse kruiden + druivenpitolie|filip
+|limoen/dille mayonaise|maken|groep
+|limoen/dille mayonaise|2el limoenjus + 2el griekse yoghurt|groep
+|limoen/dille mayonaise|asaissoner + in spuitzak|groep
+|zalmtartaar|zalm versnijden|theo
+|zalmtartaar|sjalot versnipperen|theo
+|zalmtartaar|mengen + pezo|theo
+|mosterdijs|creme anglaise|theo
+|mosterdijs|afkoelen + mosterd|theo
+|mosterdijs|pacojet pot|theo
+|sponscake|thermomix: ei + bloem + tomaatpoeder (texturas)|filip
+|sponscake|passer au chinois fin|filip
+|sponscake|in sifonfles|filip
+|sponscake|vullen 1/3de vol|filip
+|sponscake|microwave: 40s - 900W |filip
+|sponscake|laten rusten + uitsnijden|filip
+|rauwe venkel|fijne plakken op ijswater|filip
+|gegrilde venkel|1 plak pp 1,5cm|theo
+|gegrilde venkel|inolien + grillen aan 1 zijde|theo
+|===
+
+.Bereiding
+[cols="5,20,3"]
+|===
+|Gerecht|Handeling|Wie
+
+|zalmhaasje|vacuumeer en garen 20min op 45C in romer|filip
+|gegrilde venkel|verdergaren in water/boter/thijm/laurier/pezo|theo
+|rauwe venkel|egoutter + assaisoner (chard.azijn, olijfolie, pezo)|filip
+|===
+
+=== Bordschikking
+image::emptyplate.jpg[]
